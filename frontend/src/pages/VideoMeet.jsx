@@ -527,6 +527,7 @@ import ChatIcon from '@mui/icons-material/Chat'
 import server from '../environment';
 import FullscreenIcon from '@mui/icons-material/Fullscreen';
 import FullscreenExitIcon from '@mui/icons-material/FullscreenExit';
+import CloseIcon from '@mui/icons-material/Close';
 
 const server_url = server;
 
